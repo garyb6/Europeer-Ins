@@ -81,6 +81,7 @@ const CountryQuiz = ({countryList, getCountry, handleClose, setQuizInfo, setShow
                     <Card.Body className="appBody">
                     <Card.Title as='h4'>Can you name the countries?</Card.Title>
                                     <Card.Text>
+                                    <div className= "subtitle">Type in the country that the indicator is hovering over</div>
                                         {start ? <button className="submit-start-button" onClick={startQuiz}>Click to start</button> 
                                         :
                                         <div>
