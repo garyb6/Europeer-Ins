@@ -119,7 +119,7 @@ button.accordion-body.collapseButton{
 }
 
 .search-container {
-    background-color: #e824fa;
+    /* background-color: #e824fa; */
     position: fixed;
     bottom: 10%;
     width: 370px;
@@ -141,7 +141,7 @@ button.accordion-body.collapseButton{
 }
 
 .search-container{
-    box-shadow: chocolate;
+    /* box-shadow: chocolate; */
     z-index: 200;
 }
 

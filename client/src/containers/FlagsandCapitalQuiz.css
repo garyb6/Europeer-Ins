@@ -9,6 +9,7 @@ h5{
 
 .flagQ{
     justify-self: center;
+    /* padding: 5%; */
     font: 25px/200% 'Chakra Petch', sans-serif;
 }
 
@@ -16,11 +17,11 @@ h5{
     border-radius: 5px;
     width: 300px;
     height: 230px;
-    margin: 10px;
+    /* margin: 10px; */
 }
 
 .modal-body{
-    padding: 0;
+    /* padding: 5%; */
     display: flex;
     justify-content: center;
     color: white;
@@ -35,20 +36,20 @@ h5{
     font: bold 20px/200% 'Chakra Petch', sans-serif;
     position: right;
     z-index: 10;
-    right: 5%;
-    top: 10%;
+    /* right: 5%;
+    top: 10%; */
 }
 
 ul{
     list-style: none;
-    margin: 0;
-    padding: 0
+    /* margin: 0;
+    padding: 0 */
 }
 
 button{
-    margin: 10px;
+    /* margin: 10px; */
     width: 300px;
-    height: 65px;
+    /*height: 65px; */
     background-color: #10242d;
     border: 0.5px solid #2099d1;
     border-radius: 5px;
@@ -74,11 +75,11 @@ button{
 
 #next-btn {
     justify-content: center;
-    width: 300px;
+    /* width: 300px; */
     background-color: #08a7f1;
     border: 0.5px solid #2099d1;
     border-radius: 10px;
-    padding: 5px 10px;
+    /* padding: 5px 10px; */
     color: white;
     outline: none;
 }
