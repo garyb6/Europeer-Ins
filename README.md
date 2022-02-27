@@ -45,7 +45,7 @@ A user should be able to:
 
 From the command line:
 
-- Cd to server package and use: npm install, npm run seeds and npm start to populate and run the backend of the app. 
+- Cd to server package and use: npm install, npm run seeds and npm start to populate the database and run the backend of the app. 
 - In a different tab, cd to client package and again, npm install and npm start to enable and open the frontend.  
 - Navigate to the react URL, typically http://127.0.0.1:3000. 
 
