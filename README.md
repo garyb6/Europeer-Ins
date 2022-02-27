@@ -13,7 +13,7 @@ The BBC are looking to improve their online offering of educational content by d
 
 A user should be able to:
 
-- view some educational content on a country
+- view educational content on a country
 - be able to interact with a map to read about a chosen country
 
 ## Extensions
@@ -27,3 +27,25 @@ A user should be able to:
 - Bootstrap
 - Leaflet
 - MongoDB
+
+## Achievements
+
+- Learnt how to manipulate data and load mongoDB with different data sources. 
+- Learnt how a filter and search bar can be implemented. 
+- Was able to get to grips with Bootstrap for the first time to complete CSS features. 
+- More experience with agile methodologies, such as leading daily standups in turn as well as paired and mob programming any issues encountered to help resolve as a group. 
+
+## Things we could have done differently
+
+- The importance of planning - having completed our MVP, a more thorough reassessment of where we were going as a group could have led to a more refined outcome, we rushed into things a bit. 
+- The importance of checking branch merges thoroughly - missing a couple of lines put us back a significant amount of time before we resolved the issue. 
+-  The base of the quiz could be used to create different quizzes using the information stored in the database with a few tweaks, could have potentially added one or two more but could not due to time constraints.
+
+## To run
+
+From the command line:
+
+- Cd to server package and use: npm install, npm run seeds and npm start to populate and run the backend of the app. 
+- In a different tab, cd to client package and again, npm install and npm start to enable and open the frontend.  
+- Navigate to the react URL, typically http://127.0.0.1:3000. 
+

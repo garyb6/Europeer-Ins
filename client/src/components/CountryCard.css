@@ -9,30 +9,22 @@
 
 .cardInfoLabel{
     font: bold 22px/150% 'Architects Daughter', cursive;
-    /* font: bold 22px/150% 'Architects Daughter', cursive; */
-    /* font: bold 22px/150% 'Franklin Gothic Medium'; */
-    /* font-family: 'Gulim'; */
     font: bold 22px/150% cursive; 
     font-family: 'Monda', sans-serif;
 }
 
 .cardInfoContent{
-    /* font: 22px/150% 'Architects Daughter', cursive; */
-    /* font: 22px/150% 'Architects Daughter', cursive; */
     font: 18px/150% cursive;
     font-family: 'Monda', sans-serif;
     font-weight: normal;
-    /* font-family: 'Gulim'; */
 }
 
 h4 {
-    /* font: 25px/100% 'Permanent Marker', cursive; */
     font: bold 22px/100% cursive;
     font-family: 'Monda', sans-serif;
     font-weight: bold 700;
     margin: 0;
     padding: 0;
-    /* word-spacing: 1%; */
 }
 
 h5 {

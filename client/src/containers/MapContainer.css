@@ -3,7 +3,7 @@
 .right-side {
     position: fixed;
     z-index: 10;
-    right: 5%;
+    right: 12%;
     top: 10%;
     width: 370px;
 }
@@ -13,7 +13,6 @@
     border-radius: 0;
     position: absolute;
     z-index: 100;
-    
 }
 
 .appBody{
@@ -119,7 +118,6 @@ button.accordion-body.collapseButton{
 }
 
 .search-container {
-    /* background-color: #e824fa; */
     position: fixed;
     bottom: 10%;
     width: 370px;
@@ -128,6 +126,10 @@ button.accordion-body.collapseButton{
 .dropdown-card {
     position: fixed;
     height: 500px;
+}
+
+.accordion-button.collapsed{
+    padding: 30px;;
 }
 
 .accordion-body {
@@ -141,11 +143,11 @@ button.accordion-body.collapseButton{
 }
 
 .search-container{
-    /* box-shadow: chocolate; */
     z-index: 200;
 }
 
 .quiz-card {
+    border-radius: 3px;;
     position:absolute;
     z-index: 1500
 }
