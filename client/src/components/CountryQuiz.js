@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import "./CountryCard.css"
-import "../containers/MapContainer.css"
+import "../css/CountryCard.css"
+import "../css/MapContainer.css"
 import {Card, CloseButton} from 'react-bootstrap';
 
 const CountryQuiz = ({countryList, getCountry, handleClose, setQuizInfo, setShowQuiz}) => {

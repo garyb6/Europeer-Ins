@@ -7,12 +7,12 @@ import CapitalsQuizContainer from "./CapitalsQuizContainer";
 import FlagsQuizContainer from "./FlagsQuizContainer";
 import { Accordion, Card } from 'react-bootstrap';
 import { Search } from 'react-bootstrap-icons';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import LeafletMap from "./LeafletMap";
 import { countryList } from './../data/EuropeData'
 import { getCountry } from "../services/EuroService";
-import "../components/CountrySearch.css"
-import './MapContainer.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+import "../css/CountrySearch.css"
+import '../css/MapContainer.css'
 
 const MapContainer = () => {
 

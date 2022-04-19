@@ -1,7 +1,7 @@
 import React from "react";
 import CountryInfo from "./CountryInfo";
 import {Card, CloseButton} from 'react-bootstrap';
-import "./CountryCard.css"
+import "../css/CountryCard.css"
 
 const CountryCard = ({ selectedCountry, countryInfo, handleClose }) => {
     return (

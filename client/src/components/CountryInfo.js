@@ -1,6 +1,6 @@
 import React from "react";
-import './CountrySearch.css'
-import "./CountryCard.css"
+import '../css/CountrySearch.css'
+import "../css/CountryCard.css"
 
 const CountryInfo = ({countryInfo}) => {
 

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import QuizOption from "./QuizOption";
-import '../containers/FlagsandCapitalQuiz.css'
+import '../css/FlagsandCapitalQuiz.css'
 
 const Quiz = ({newQuestion, correctAnswer, setHasAnswered, hasAnswered, score, setScore}) => {
 
@@ -43,5 +43,3 @@ const Quiz = ({newQuestion, correctAnswer, setHasAnswered, hasAnswered, score, s
 }
 
 export default Quiz;
-
-// hello 

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Quiz from "../components/Quiz";
 import {Modal, Button} from 'react-bootstrap';
-import './FlagsandCapitalQuiz.css'
+import '../css/FlagsandCapitalQuiz.css'
 
 const FlagsQuizContainer = ({ countryList, getCountry }) => {
 

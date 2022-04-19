@@ -1,5 +1,5 @@
 import React from "react";
-import "./CountrySearch.css"
+import "../css/CountrySearch.css"
 
 const CountrySearch = ({setFilter}) => {
 

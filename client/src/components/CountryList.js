@@ -1,6 +1,6 @@
 import React from "react";
 import CountryListItem from "./CountryListItem";
-import './CountrySearch.css'
+import '../css/CountrySearch.css'
 
 const CountryList = ({countryList, onCountryClick, checkFilter}) => {
     

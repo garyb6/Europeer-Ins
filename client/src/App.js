@@ -1,4 +1,4 @@
-import './App.css';
+import './css/App.css';
 import MapContainer from './containers/MapContainer';
 
 function App() {
